@@ -1,0 +1,1 @@
+To enable Ansible Content Creators and Ansible Platform Administrators to take advantage of automation execution environments, ansible-builder was created, which aids in the creation of execution environments.
